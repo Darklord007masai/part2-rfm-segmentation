@@ -1,0 +1,11 @@
+# Data Manipulation & RFM Feature Engineering
+pandas>=2.1.0
+numpy>=1.24.0
+
+# Segmentation Analytics & Visualization (to verify and plot segment boundaries)
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Jupyter Notebook Environment Support
+jupyterlab>=4.0.0
+ipykernel>=6.25.0
